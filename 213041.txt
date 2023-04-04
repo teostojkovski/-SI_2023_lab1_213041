@@ -1,0 +1,28 @@
+1. Инсталирав Git и креирав профил на Github.
+2. Го променив името на главната гранка во master.
+3. Креирав remote репозиториум на Github и го именував соодветно со барањето.
+4. Направив локален директориум и го именував соодветно со remote репозиториумот и го иницијализирав Git со командата git init.
+5. Го поврзав локалниот со одалечениот репозиториум со командата git remote add origin git@github.com:teostojkovski/-SI_2023_lab1_213041.git.
+6. Со командата echo "Teo, Stojkovski, 213041" >> README.md ја направив README.md датотеката во која пишав име, презиме и индекс, потоа ја користев командата git add README.md и командата git commit "Initial commit".
+7. Направив нов фајл SILab1.java во кој ја копирав содржината од линкот, потоа користев git add SILab1.java и git commit "Add java class".
+8. Ги синхронизирав сите гранки со командата git push -u origin master.
+9. Отворив три нови гранки користејќи команди git branch bug1, git branch bug2, git branch bug3.
+10. Со git checkout bug1 се префрлив на гранката bug1.
+11. Ја поправив грешката во кодот, потоа ја искористив командата git add SILab1.java и командата git commit "Fix wrong loop for reading".
+12. Со командата git checkout bug2 се префрлив на гранката bug2.
+13. Ја поправив грешката во методот filterOddNumbers, потоа користев git add SILab1.java и git commit "filterOddNumbers".
+14. Со git checkout bug3 се префрлив на гранката bug3.
+15. Ја поправив грешката во методот sumEvenNumbers, потоа користев git add SILab1.java и git commit "Fix method sumEvenNumbers".
+16. Со командата git push --all ги синхронизирав сите гранки со оддалечениот репозиториум.
+17. Се префрлив на гранката master со командата git checkout master.
+18. Со командата git merge bug1 ја споив гранката bug1 со гранката master.
+19. Ги синхронизирав гранките со git push.
+20. Со командата git merge bug2 ја споив гранката bug2 со гранката master.
+21. Ги синхронизирав гранките со git push.
+22. Со командата git checkout bug3 се префрлив на гранката bug3.
+23. Направив rebase спрема гранката master со командата git rebase master.
+24. Се префрлив на гранката master со командата git checkout master.
+25. Со командата git merge bug3 ја споив гранката bug3 со гранката master.
+26. Ги синхронизирав гранките со командата git push и немав потреба за користење на командата --force.
+27. Додадов датотека logs.txt во која го копирав output-от од командата git log и ја додадов датотеката 213041.txt во која ја документирав мојата работа.
+28. Синхронизирав со командата git push.
