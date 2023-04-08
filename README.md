@@ -1,1 +1,1 @@
-"Teo, Stojkovski, 213041" 
+Teo Stojkovski, 213041 
