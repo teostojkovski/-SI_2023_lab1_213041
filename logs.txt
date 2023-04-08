@@ -1,4 +1,29 @@
-commit d5c9a278c0d91bab574a43390bb07d9868a24e20 (HEAD -> master, origin/master, bug3)
+commit 96a722882cfd6369e56822b7fe8197f6e5afa270 (HEAD -> master)
+Author: teostojkovski <teo.stojkovski@gmail.com>
+Date:   Sat Apr 8 22:33:10 2023 +0200
+
+    Initial commit
+
+commit 086818ac95f18de62cf7390753568288f7b620bd
+Author: teostojkovski <teo.stojkovski@gmail.com>
+Date:   Sat Apr 8 22:30:22 2023 +0200
+
+    Final commit
+
+commit 9b00cba2cd48c876598862c5c41f1b2be3fd4c12 (origin/master)
+Merge: ce52660 f725341
+Author: teostojkovski <teo.stojkovski@gmail.com>
+Date:   Tue Apr 4 23:59:51 2023 +0200
+
+    Merge branch 'bug3' of github.com:teostojkovski/-SI_2023_lab1_213041
+
+commit ce52660f583ddd624d1f2e6ea508947d71245b5f
+Author: teostojkovski <teo.stojkovski@gmail.com>
+Date:   Tue Apr 4 23:57:13 2023 +0200
+
+    Final commit
+
+commit d5c9a278c0d91bab574a43390bb07d9868a24e20 (origin/bug3, bug3)
 Author: teostojkovski <teo.stojkovski@gmail.com>
 Date:   Tue Apr 4 23:08:20 2023 +0200
 
@@ -10,6 +35,12 @@ Author: teostojkovski <teo.stojkovski@gmail.com>
 Date:   Tue Apr 4 23:15:05 2023 +0200
 
     Merge branch 'bug2'
+
+commit f725341cc7a0abbf80a70f124da83725cffae4b1
+Author: teostojkovski <teo.stojkovski@gmail.com>
+Date:   Tue Apr 4 23:08:20 2023 +0200
+
+    Fix method sumEvenNumbers
 
 commit f8ee61cfa7bd78e3409ba7b5af2ce9080559792e (origin/bug2, bug2)
 Author: teostojkovski <teo.stojkovski@gmail.com>
@@ -26,3 +57,108 @@ Date:   Tue Apr 4 22:58:06 2023 +0200
 commit 722e3701a7cfdfcef8178149159f49fe2c96da35
 Author: teostojkovski <teo.stojkovski@gmail.com>
 Date:   Tue Apr 4 22:51:53 2023 +0200
+
+    Add java class
+
+commit c1dde1393f66e330b8caf8b3296fa5e4ec39dcbb
+Author: teostojkovski <teo.stojkovski@gmail.com>
+Date:   Tue Apr 4 22:50:41 2023 +0200
+
+    Initial commit
+commit 96a722882cfd6369e56822b7fe8197f6e5afa270 (HEAD -> master)
+Author: teostojkovski <teo.stojkovski@gmail.com>
+Date:   Sat Apr 8 22:33:10 2023 +0200
+
+    Initial commit
+
+commit 086818ac95f18de62cf7390753568288f7b620bd
+Author: teostojkovski <teo.stojkovski@gmail.com>
+Date:   Sat Apr 8 22:30:22 2023 +0200
+
+    Final commit
+
+commit 9b00cba2cd48c876598862c5c41f1b2be3fd4c12 (origin/master)
+Merge: ce52660 f725341
+Author: teostojkovski <teo.stojkovski@gmail.com>
+Date:   Tue Apr 4 23:59:51 2023 +0200
+
+    Merge branch 'bug3' of github.com:teostojkovski/-SI_2023_lab1_213041
+
+commit ce52660f583ddd624d1f2e6ea508947d71245b5f
+Author: teostojkovski <teo.stojkovski@gmail.com>
+Date:   Tue Apr 4 23:57:13 2023 +0200
+
+    Final commit
+
+commit d5c9a278c0d91bab574a43390bb07d9868a24e20 (origin/bug3, bug3)
+Author: teostojkovski <teo.stojkovski@gmail.com>
+Date:   Tue Apr 4 23:08:20 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit 29ea3c32746774f01a072de9440a427e1f90a25b
+Merge: cb6e135 f8ee61c
+Author: teostojkovski <teo.stojkovski@gmail.com>
+Date:   Tue Apr 4 23:15:05 2023 +0200
+
+    Merge branch 'bug2'
+
+commit f725341cc7a0abbf80a70f124da83725cffae4b1
+Author: teostojkovski <teo.stojkovski@gmail.com>
+Date:   Tue Apr 4 23:08:20 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit f8ee61cfa7bd78e3409ba7b5af2ce9080559792e (origin/bug2, bug2)
+Author: teostojkovski <teo.stojkovski@gmail.com>
+Date:   Tue Apr 4 23:04:34 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit cb6e135164846d13580de136ec407d818402b1ac (origin/bug1, bug1)
+Author: teostojkovski <teo.stojkovski@gmail.com>
+Date:   Tue Apr 4 22:58:06 2023 +0200
+
+    Fix wrong loop for reading
+
+commit 722e3701a7cfdfcef8178149159f49fe2c96da35
+Author: teostojkovski <teo.stojkovski@gmail.com>
+Date:   Tue Apr 4 22:51:53 2023 +0200
+
+    Add java class
+
+commit c1dde1393f66e330b8caf8b3296fa5e4ec39dcbb
+Author: teostojkovski <teo.stojkovski@gmail.com>
+Date:   Tue Apr 4 22:50:41 2023 +0200
+
+    Initial commit
+(END)
+commit f725341cc7a0abbf80a70f124da83725cffae4b1
+Author: teostojkovski <teo.stojkovski@gmail.com>
+Date:   Tue Apr 4 23:08:20 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit f8ee61cfa7bd78e3409ba7b5af2ce9080559792e (origin/bug2, bug2)
+Author: teostojkovski <teo.stojkovski@gmail.com>
+Date:   Tue Apr 4 23:04:34 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit cb6e135164846d13580de136ec407d818402b1ac (origin/bug1, bug1)
+Author: teostojkovski <teo.stojkovski@gmail.com>
+Date:   Tue Apr 4 22:58:06 2023 +0200
+
+    Fix wrong loop for reading
+
+commit 722e3701a7cfdfcef8178149159f49fe2c96da35
+Author: teostojkovski <teo.stojkovski@gmail.com>
+Date:   Tue Apr 4 22:51:53 2023 +0200
+
+    Add java class
+
+commit c1dde1393f66e330b8caf8b3296fa5e4ec39dcbb
+Author: teostojkovski <teo.stojkovski@gmail.com>
+Date:   Tue Apr 4 22:50:41 2023 +0200
+
+    Initial commit
